@@ -1,3 +1,23 @@
+head>
+  <style>
+    .animated-text {
+      animation: color-change 5s infinite alternate;
+    }
+
+    @keyframes color-change {
+      0% {
+        color: #0e75b6;
+      }
+      50% {
+        color: #f90;
+      }
+      100% {
+        color: #0e75b6;
+      }
+    }
+  </style>
+</head>
+
 <h1 align="center">Hi 👋, I'm Billy Korir</h1>
 <h3 align="center">Data Scientist!.</h3>
 
