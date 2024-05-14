@@ -1,5 +1,19 @@
-<h1 align="center">Hi 👋, I'm Billy Korir</h1>
-<h3 align="center">Data Scientist!.</h3>
+<head>
+  <style>
+    .animated-text {
+      animation: color-change 5s infinite alternate;
+    }
+
+    @keyframes color-change {
+      from { color: #0e75b6; }
+      to { color: #f90; }
+    }
+  </style>
+</head>
+
+<h1 align="center" class="animated-text">Hi , I'm Billy Korir</h1>
+<h3 align="center" class="animated-text">Data Scientist!.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blkors&label=Profile%20views&color=0e75b6&style=flat" alt="blkors" /> </p>
 
