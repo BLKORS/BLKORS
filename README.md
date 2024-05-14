@@ -1,15 +1,3 @@
-<head>
-  <style>
-    .animated-text {
-      animation: color-change 5s infinite alternate;
-    }
-
-    @keyframes color-change {
-      from { color: #0e75b6; }
-      to { color: #f90; }
-    }
-  </style>
-</head>
 
 <h1 align="center" class="animated-text">Hi , I'm Billy Korir</h1>
 <h3 align="center" class="animated-text">Data Scientist!.</h3>
@@ -32,7 +20,7 @@
 <h3 align="left">Education:</h3>
 <ul>
   <li>BSc in Computer Science (Current), Tharaka University</li>
-  <li>Cisco Certified Data Scientist</li>
+  <li>Cisco - Data Scientist</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
