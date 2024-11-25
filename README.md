@@ -20,7 +20,7 @@
 <h3 align="left">Education:</h3>
 <ul>
   <li>BSc in Computer Science (Current), Tharaka University</li>
-  <li>Cisco - Data Scientist</li>
+  <li>Cisco - Data Science</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
